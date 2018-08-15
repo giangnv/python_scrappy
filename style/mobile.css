@@ -1,0 +1,87 @@
+.container
+{
+	width:98%;
+}
+.container fieldset.vung-nhap
+{
+	height:450px;
+}
+.container .nhap_thongtin select, #btGiaiDoan
+{
+	font-size:1em;
+}
+.container ul.nav > li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container h2
+{
+	font-size:1.5em;
+}
+body div.container h1
+{
+	font-size:1.3em;
+}
+body h2.alt {
+    font-size: 1.3em;
+}
+body div.noi-dung p img
+{
+	max-width:480px;
+}
+body .noi-dung h3 {
+    font-size: 1.2em;
+}
+body div.noi-dung h3.giaidoan-cung a {
+    font-size: 1.2em;
+}
+body div.giaidoan-cung {
+    font-size: 1.4em;
+	margin: 12px 0;
+}
+body div.giaidoan {
+    border-radius: 8px;
+    padding: 3px 8px;
+}
+body  div.page a {
+    padding: 1px 10px;
+}
+body .laso table 
+{
+	font-size: 0.3em;
+}
+body .laso div.thien-ban {
+    font-size: 0.9em;
+}
+body .laso-ghichu li span {
+    height: 18px;
+    width: 18px;
+}
+body .laso-ghichu li {
+    margin-right: 5px;
+}
+body .laso-giaithich {
+    font-size: 0.9em;
+}
+body .cung div.chinh-tinh {
+    font-size: 0.5em;
+}
+body .cung-tencung {
+    font-size: 0.1em;
+}
+body .sao-xau {
+    width: 100%;
+}
+body .sao-tot {
+    width: 100%;
+}
+div.cung-top span.cung-diachi, div.cung-top span.cung-daivan,
+div.cung-bottom span.cung-tieuvan, div.cung-bottom span.cung-nguhanh
+{
+	 margin-left: 5px;
+	 position: relative;
+	 display:block;
+	 top:0px;
+	 right:0px;
+	 left:0px;
+}

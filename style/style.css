@@ -1,0 +1,72 @@
+@charset "UTF-8";
+.top-menu
+{
+	margin-top:10px;
+}
+.top-menu .links, .top-menu .slogan{
+	display: inline-block;
+	position: absolute;
+	font-size: 12px;
+}
+.top-menu .links {
+	top: 40px;
+}
+.top-menu .slogan {
+	top: 60px;
+}
+.top-menu .logo{
+	width:80px;
+}
+.group-btn-share {
+    bottom: 10px;
+    left: 10px;
+    position: fixed;
+    transition: all 0.2s ease 0s;
+}
+.group-btn-share > div {
+    display: inline-block;
+    position: relative;
+}
+.group-btn-share > div > a {
+    background-color: rgba(245, 245, 245, 0.7);
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 1px solid #d7d6d6;
+    border-radius: 3px;
+    display: block;
+    height: 36px;
+    width: 36px;
+}
+.icon-mail {
+    background-image: url("../image/ico-mailbox.png");
+}
+.icon-like {
+    background-image: url("../image/ico-like.png");
+}
+.icon-mess {
+    background-image: url("../image/ico-like.png");
+}
+div.follow-me span
+{
+	font-size: 1.3em;
+	margin-right: 0.2em;
+	vertical-align: middle;
+}
+div.follow-me a {
+    display: inline-block;
+    margin-right: 0.2em;
+    vertical-align: middle;
+}
+div.follow-me a img
+{
+	height:25px;
+	border-radius: 50%;
+}
+div#footer 
+{
+	font-size:12px;
+}
+div.ad-bottom-inpage
+{
+	margin-bottom:10px;
+}
